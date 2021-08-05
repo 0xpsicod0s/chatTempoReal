@@ -1,24 +1,26 @@
 # Chat em tempo real
 
-> Estava no tédio, resolvi ler a documentação do [Socket.IO](https://socket.io/docs/v4) e bem, no fim, desenvolvi um bate papo real time (:
+> Estava no tédio, resolvi ler a documentação do [Socket.IO](https://socket.io/docs/v4) e saiu um bate papo real time (:
 
 ## Pré requisito
 
-* Instale a última versão do [Node.JS](https://nodejs.org/en/) para usar o chat
+* Instalei a última versão do [Node.JS](https://nodejs.org/en/) para usar o chat
 
-## Instalar o projeto
+## Instalar o projeto 
 
-É muito simples instalar o projeto. 
-
+### Clone o projeto para sua máquina utilizando o comando:
 ```bash
-# Clone o projeto para sua máquina utilizando o comando:
-$ git clone https://github.com/cxnd3v/chatTempoReal
+git clone https://github.com/cxnd3v/chatTempoReal
+```
 
-# Navegue até o diretório do projeto
-$ cd caminho/do/projeto
+### Navegue até o diretório do projeto
+```bash
+cd caminho/do/projeto
+```
 
-# Instale os pacotes
-$ npm i
+### Instale os pacotes
+```bash
+npm install
 ```
 
 ## Usando o chat
