@@ -4,7 +4,7 @@
 
 ## Pré requisito
 
-* Instalei a última versão do [Node.JS](https://nodejs.org/en/) para usar o chat
+* Instale a última versão do [Node.JS](https://nodejs.org/en/) para usar o chat
 
 ## Instalar o projeto
 
